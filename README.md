@@ -1,6 +1,8 @@
 # Algorithms-Princeton.University
 Algorithms, Part I - Princeton.University - Coursera
 
+Part I focuses on elementary data structures, sorting, and searching. Topics include union−find, binary search, stacks, queues, bags, insertion sort, selection sort, shellsort, quicksort, 3-way quicksort, mergesort, heapsort, binary heaps, binary search trees, red−black trees, separate-chaining and linear-probing hash tables, Graham scan, and kd-trees. 
+
 ## Week1
 * Introduction
 * Union-Find
@@ -23,6 +25,9 @@ Algorithms, Part I - Princeton.University - Coursera
 
 ## Week6
 
+#### Taught by: 
+* Robert Sedgewick - Professor - Computer Science
+* Kevin Wayne - Senior Lecturer - Computer Science
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:

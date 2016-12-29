@@ -8,6 +8,9 @@ Algorithms, Part I - Princeton.University - Coursera
 * [Programming Assignment 1: Percolation] (http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
 
 ## Week2
+* Stacks and Queues
+* Elementary Sorts
+* [Programming Assignment 2: Deques and Randomized Queues] (http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
 
 ## Week3
 

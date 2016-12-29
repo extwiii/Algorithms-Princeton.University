@@ -13,6 +13,9 @@ Algorithms, Part I - Princeton.University - Coursera
 * [Programming Assignment 2: Deques and Randomized Queues] (http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
 
 ## Week3
+* Mergesort
+* Quicksort
+* [Programming Assignment 3: Pattern Recognition] (http://coursera.cs.princeton.edu/algs4/assignments/collinear.html)
 
 ## Week4
 

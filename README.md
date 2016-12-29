@@ -1,6 +1,23 @@
 # Algorithms-Princeton.University
 Algorithms, Part I - Princeton.University - Coursera
 
+## Week1
+* Introduction
+* Union-Find
+* Analysis of Algorithms
+* [Programming Assignment 1: Percolation] (http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
+
+## Week2
+
+## Week3
+
+## Week4
+
+## Week5
+
+## Week6
+
+
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon:
 

@@ -20,6 +20,9 @@ Part I focuses on elementary data structures, sorting, and searching. Topics inc
 * [Programming Assignment 3: Pattern Recognition] (http://coursera.cs.princeton.edu/algs4/assignments/collinear.html)
 
 ## Week4
+* Priority Queues
+* Elementary Symbol Tables
+* [Programming Assignment 4: 8 Puzzle] (http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
 
 ## Week5
 

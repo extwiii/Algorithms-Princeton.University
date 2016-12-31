@@ -30,6 +30,8 @@ Part I focuses on elementary data structures, sorting, and searching. Topics inc
 * [Programming Assignment 5: Kd-Trees] (http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
 
 ## Week6
+* Hash Tables
+* Symbol Table Applications
 
 #### Taught by: 
 * Robert Sedgewick - Professor - Computer Science

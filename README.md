@@ -25,6 +25,9 @@ Part I focuses on elementary data structures, sorting, and searching. Topics inc
 * [Programming Assignment 4: 8 Puzzle] (http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
 
 ## Week5
+* Balanced Search Trees
+* Geometric Applications of BSTs
+* [Programming Assignment 5: Kd-Trees] (http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
 
 ## Week6
 
